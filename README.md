@@ -1,5 +1,4 @@
-- Hello I am Andrew Choi
-- I am a graduate of McGill University with a major in Pharmacology and Therapeutics and a minor in Computer Science
+sup
 
 
 <!---
